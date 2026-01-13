@@ -84,7 +84,7 @@ GEM
     base64 (0.3.0)
     bcrypt_pbkdf (1.1.1)
     bigdecimal (3.3.1)
-    bootsnap (1.19.0)
+    bootsnap (1.21.0)
       msgpack (~> 1.2)
     brakeman (7.1.1)
       racc
@@ -173,8 +173,6 @@ GEM
       net-protocol
     net-ssh (7.3.0)
     nio4r (2.7.4)
-    nokogiri (1.18.10-x64-mingw-ucrt)
-      racc (~> 1.4)
     nokogiri (1.18.10-x86_64-linux-gnu)
       racc (~> 1.4)
     ostruct (0.6.3)
@@ -182,7 +180,6 @@ GEM
     parser (3.3.9.0)
       ast (~> 2.4.1)
       racc
-    pg (1.6.2-x64-mingw-ucrt)
     pg (1.6.2-x86_64-linux)
     pp (0.6.3)
       prettyprint
@@ -238,7 +235,7 @@ GEM
       zeitwerk (~> 2.6)
     rainbow (3.1.1)
     rake (13.3.1)
-    rdoc (6.16.0)
+    rdoc (7.0.3)
       erb
       psych (>= 4.0.0)
       tsort
@@ -303,10 +300,9 @@ GEM
     thruster (0.1.16)
     thruster (0.1.16-x86_64-linux)
     timeout (0.4.3)
+    tsort (0.2.0)
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
-    tzinfo-data (1.2025.2)
-      tzinfo (>= 1.0.0)
     unicode-display_width (3.2.0)
       unicode-emoji (~> 4.1)
     unicode-emoji (4.1.0)
@@ -319,7 +315,6 @@ GEM
     zeitwerk (2.7.3)
 
 PLATFORMS
-  x64-mingw-ucrt
   x86_64-linux
 
 DEPENDENCIES
