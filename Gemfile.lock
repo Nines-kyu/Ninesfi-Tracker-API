@@ -47,7 +47,7 @@ GEM
       erubi (~> 1.11)
       rails-dom-testing (~> 2.2)
       rails-html-sanitizer (~> 1.6)
-    active_model_serializers (0.10.15)
+    active_model_serializers (0.10.16)
       actionpack (>= 4.1)
       activemodel (>= 4.1)
       case_transform (>= 0.2)
@@ -297,8 +297,7 @@ GEM
       ostruct
     stringio (3.1.8)
     thor (1.4.0)
-    thruster (0.1.16)
-    thruster (0.1.16-x86_64-linux)
+    thruster (0.1.17-x86_64-linux)
     timeout (0.4.3)
     tsort (0.2.0)
     tzinfo (2.0.6)
