@@ -86,7 +86,7 @@ GEM
     bigdecimal (4.0.1)
     bootsnap (1.19.0)
       msgpack (~> 1.2)
-    brakeman (7.1.2)
+    brakeman (8.0.5)
       racc
     builder (3.3.0)
     case_transform (0.2)
@@ -174,8 +174,6 @@ GEM
       net-protocol
     net-ssh (7.3.0)
     nio4r (2.7.5)
-    nokogiri (1.19.0-x64-mingw-ucrt)
-      racc (~> 1.4)
     nokogiri (1.19.0-x86_64-linux-gnu)
       racc (~> 1.4)
     ostruct (0.6.3)
