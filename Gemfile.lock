@@ -174,8 +174,6 @@ GEM
       net-protocol
     net-ssh (7.3.0)
     nio4r (2.7.5)
-    nokogiri (1.19.0-x64-mingw-ucrt)
-      racc (~> 1.4)
     nokogiri (1.19.0-x86_64-linux-gnu)
       racc (~> 1.4)
     ostruct (0.6.3)
@@ -191,7 +189,7 @@ GEM
     psych (5.3.1)
       date
       stringio
-    puma (7.2.0)
+    puma (8.0.2)
       nio4r (~> 2.0)
     raabro (1.4.0)
     racc (1.8.1)
